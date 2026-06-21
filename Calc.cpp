@@ -11,7 +11,7 @@ int main()
 		cout<<"\t\t\t4. Dividir"<<endl;
 		cout<<"\t\t\t5. Salir"<<endl;
 		cout<<"\n\t\t\tIngrese su operacion: ";cin>>opc;
-		
+		cout<<"111111";
 		switch (opc)
 		{
 			case 1: 
